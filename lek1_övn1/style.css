@@ -1,0 +1,16 @@
+ul{
+    background-color: tomato;
+    color: yellow;
+}
+
+li{
+    background-color: black;
+    color: white;
+}
+
+ol{
+    background-color: brown;
+}
+body{
+    background-color: rgb(21, 82, 156);
+}

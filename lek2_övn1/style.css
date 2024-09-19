@@ -1,0 +1,32 @@
+/*
+Namn: Uzayon Imtiaz
+Klass: TE23E
+*/
+body{
+    background-image: url("./img/moorish-pattern_644416-582.jpg");
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    color: #eb4034;
+    background-color: #eeddb4;
+    text-align: right;
+}
+ul{
+    background-color: rgb(0, 0, 144);
+}
+a{
+    color: deeppink;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+    background-color: lawngreen;
+}
+a:active{
+    color: maroon;
+    background-color: teal;
+}
+img{
+    height: 400px;
+    width: 400px;
+}

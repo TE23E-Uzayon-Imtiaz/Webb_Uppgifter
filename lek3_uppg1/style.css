@@ -1,0 +1,13 @@
+body{
+    background-image: url("./img/moorish-pattern_644416-582.jpg");
+h1{
+    color: rgb(0, 159, 211);
+    background-color:rgb(225, 255, 255);
+    text-align: right;
+}
+ul{
+    background-color: rgb(32, 0, 127);
+}
+a{
+    color: rgb(255, 217, 0);
+}
